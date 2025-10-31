@@ -1,0 +1,7 @@
+streamlit
+phidata
+python-dotenv
+groq
+youtube-transcript-api
+googlesearch-python
+pycountry
